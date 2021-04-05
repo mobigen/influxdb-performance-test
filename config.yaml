@@ -1,0 +1,6 @@
+tagLength : 10
+numTags: 5
+numField: 7
+numGoroutine: 10
+writePerSecond: 1000
+batchSize: 500
